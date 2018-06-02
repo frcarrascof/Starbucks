@@ -15,6 +15,7 @@ nav{
 /*Promo1*/
 .promo1{
 	background: url('../images/banner1.jpg');
+	background-size: cover;
 	color: #FFFFFF;
 }
 
@@ -31,6 +32,7 @@ nav{
 /*Promo2*/
 .promo2{
 	background: url('../images/stars2.png');
+	background-size: cover;
 	color: #FFFFFF;
 }
 
@@ -46,6 +48,7 @@ nav{
 /*Promo3*/
 .promo3{
 	background: url('../images/beans.png');
+	background-size: cover;
 	color: #FFFFFF;
 }
 
