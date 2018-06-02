@@ -1,10 +1,10 @@
 /*Navegacion*/
 a{
-	color: #090A0E;
+	color: #353535!important;
 }
 
 a:hover{
-	color:#2B6044;
+	color:#2B6044!important;
 }
 
 nav{
@@ -30,7 +30,21 @@ nav{
 }
 
 /*Promo2*/
+.promo2{
+	background: url('../images/stars2.png');
+	background-size: cover;
+	color: #FFFFFF;
+}
 
+.promo2__contenedor{
+	background-color: #090a0ed4;
+	border-radius: 20px;
+}
+
+.promo2__contenedor--btn{
+	border-radius: 18px;
+	padding: 4px 35px;
+}
 /*Promo3*/
 
 /*Footer*/
