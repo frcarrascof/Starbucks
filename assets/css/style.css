@@ -62,3 +62,6 @@ nav{
 	padding: 4px 35px;
 }
 /*Footer*/
+.footer{
+	border-bottom: 10px solid #090a0e;
+}
