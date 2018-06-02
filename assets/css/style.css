@@ -1,0 +1,36 @@
+/*Navegacion*/
+a{
+	color: #090A0E;
+}
+
+a:hover{
+	color:#2B6044;
+}
+
+nav{
+	border-top:10px solid #2B6044;
+	background-color: white;
+}
+
+/*Promo1*/
+.promo1{
+	background: url('../images/banner1.jpg');
+	background-size: cover;
+	color: #FFFFFF;
+}
+
+.promo1__contenedor{
+	background-color: #090a0ed4;
+	border-radius: 20px;
+}
+
+.promo1__contenedor--btn{
+	border-radius: 18px;
+	padding: 4px 35px;
+}
+
+/*Promo2*/
+
+/*Promo3*/
+
+/*Footer*/
