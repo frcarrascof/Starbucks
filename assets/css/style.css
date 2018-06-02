@@ -46,5 +46,19 @@ nav{
 	padding: 4px 35px;
 }
 /*Promo3*/
+.promo3{
+	background: url('../images/beans.png');
+	background-size: cover;
+	color: #FFFFFF;
+}
 
+.promo3__contenedor{
+	background-color: #090a0ed4;
+	border-radius: 20px;
+}
+
+.promo3__contenedor--btn{
+	border-radius: 18px;
+	padding: 4px 35px;
+}
 /*Footer*/
